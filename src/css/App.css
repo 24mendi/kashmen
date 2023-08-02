@@ -2,3 +2,25 @@
     border: 1px solid;
     border-radius: 10px;
 }
+
+.modal{
+    display: block;
+    background-color: #000000a6;
+}
+
+img{
+    width: 80%;
+    height: auto;
+}
+
+.card{
+    max-width: 18rem;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
